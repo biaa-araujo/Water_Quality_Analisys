@@ -4,7 +4,7 @@ Projeto de Inteligência Artificial para Classificação da Potabilidade da Águ
 Este projeto consiste em uma aplicação web integrada a um modelo de Machine Learning capaz de analisar parâmetros físico-químicos da água e indicar se ela é potável ou não potável.
 O objetivo é demonstrar a aplicação de técnicas de Inteligência Artificial no apoio à tomada de decisão em problemas reais de saúde e meio ambiente.
 
-🚀 Demonstração
+## 🚀 Demonstração
 
 A aplicação permite que o usuário insira dados da água e receba uma classificação automática baseada em um modelo treinado com dados reais.
 
@@ -32,16 +32,12 @@ Exportação do modelo treinado (.pkl ou .h5)
 
 ## Estrutura do Projeto
 
-water-quality/
-│
-├── index.html
-├── styles.css
-├── script.js
-│
-├── modelo.ipynb
-├── modelo.pkl (ou .h5)
-│
-└── README.md
+- index.html
+- styles.css
+- script.js
+- modelo.ipynb
+- modelo.pkl (ou .h5)
+- README.md
 
 ## ▶️ Como executar o projeto
 
@@ -55,7 +51,6 @@ Abra o arquivo index.html no navegador
 ou use a extensão Live Server no VS Code
 
 O treinamento do modelo foi realizado no Google Colab:
- 👉 Acesse o notebook aqui:
 https://colab.research.google.com/drive/https://drive.google.com/file/d/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV/view?usp=sharing
 
 ## 🎯 Objetivo do Projeto
