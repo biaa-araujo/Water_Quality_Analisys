@@ -55,7 +55,7 @@ cd Water_Quality_Analisys
 Abra o arquivo index.html no navegador ou use a extensão Live Server no VS Code
 
 O treinamento do modelo foi realizado no Google Colab:
-(https://colab.research.google.com/drive/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV)
+https://colab.research.google.com/drive/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV
 
 ## 🎯 Objetivo do Projeto
 
