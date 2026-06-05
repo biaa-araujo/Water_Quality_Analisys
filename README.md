@@ -13,10 +13,12 @@ A aplicação permite que o usuário insira dados da água e receba uma classifi
 HTML5
 CSS3
 JavaScript
+
 🤖 Inteligência Artificial
 Python
 Pandas
 Scikit-learn
+
 Google Colab
 📊 Modelo de Machine Learning
 
