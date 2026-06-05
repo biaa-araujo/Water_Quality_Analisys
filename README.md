@@ -67,7 +67,8 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 - Desenvolvimento de interface com HTML, CSS e JavaScript  
 
 ## Autoria
-Beatriz Araújo
+- Beatriz Araújo
+- David Richard
 
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
