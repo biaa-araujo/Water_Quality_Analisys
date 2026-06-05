@@ -1,4 +1,5 @@
 Water Quality Analysis
+
 Projeto de Inteligência Artificial para Classificação da Potabilidade da Água
 
 Este projeto consiste em uma aplicação web integrada a um modelo de Machine Learning capaz de analisar parâmetros físico-químicos da água e indicar se ela é potável ou não potável.
@@ -24,11 +25,11 @@ A aplicação permite que o usuário insira dados da água e receba uma classifi
 ## Modelo de Machine Learning
 O modelo foi desenvolvido utilizando o Google Colab, passando pelas seguintes etapas:
 
-Coleta e análise de dados
-Pré-processamento e limpeza dos dados
-Treinamento do modelo supervisionado
-Avaliação de performance
-Exportação do modelo treinado (.pkl ou .h5)
+- Coleta e análise de dados
+- Pré-processamento e limpeza dos dados
+- Treinamento do modelo supervisionado
+- Avaliação de performance
+- Exportação do modelo treinado (.pkl ou .h5)
 
 ## Estrutura do Projeto
 
@@ -44,11 +45,14 @@ Exportação do modelo treinado (.pkl ou .h5)
 💻 Executar localmente
 
 Clone o repositório:
+
 git clone https://github.com/biaa-araujo/Water_Quality_Analisys.git
+
 Acesse a pasta:
+
 cd Water_Quality_Analisys
-Abra o arquivo index.html no navegador
-ou use a extensão Live Server no VS Code
+
+Abra o arquivo index.html no navegador ou use a extensão Live Server no VS Code
 
 O treinamento do modelo foi realizado no Google Colab:
 https://colab.research.google.com/drive/https://drive.google.com/file/d/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV/view?usp=sharing
@@ -62,8 +66,9 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 - Manipulação e análise de dados  
 - Desenvolvimento de interface com HTML, CSS e JavaScript  
 
-👩‍💻 Autoria
+## 👩‍💻 Autoria
 Beatriz Araújo
+
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
 📈 Possíveis melhorias futuras
