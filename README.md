@@ -9,13 +9,13 @@ O objetivo é demonstrar a aplicação de técnicas de Inteligência Artificial 
 
 A aplicação permite que o usuário insira dados da água e receba uma classificação automática baseada em um modelo treinado com dados reais.
 
-## 🛠️ Tecnologias Utilizadas
-## 💻 Front-end
+## Tecnologias Utilizadas
+## Front-end
 - HTML5
 - CSS3
 - JavaScript
 
-## 🤖 Inteligência Artificial
+## Inteligência Artificial
 - Python
 - Pandas
 - Scikit-learn
@@ -40,9 +40,9 @@ O modelo foi desenvolvido utilizando o Google Colab, passando pelas seguintes et
 - modelo.pkl (ou .h5)
 - README.md
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
-💻 Executar localmente
+Executar localmente
 
 Clone o repositório:
 
@@ -57,7 +57,7 @@ Abra o arquivo index.html no navegador ou use a extensão Live Server no VS Code
 ## O treinamento do modelo foi realizado no Google Colab:
 https://colab.research.google.com/drive/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 
@@ -66,15 +66,15 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 - Manipulação e análise de dados  
 - Desenvolvimento de interface com HTML, CSS e JavaScript  
 
-## 👩‍💻 Autoria
+## Autoria
 Beatriz Araújo
 
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
-## 📈 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 - Integração com API para análise em tempo real
 - Melhorias no modelo de IA (mais precisão)
 - Dashboard interativo com gráficos
 
-## ⭐ Observação
+## Observação
 Este projeto demonstra a aplicação prática de IA em um problema real, unindo Machine Learning + Desenvolvimento Web em uma solução completa.
