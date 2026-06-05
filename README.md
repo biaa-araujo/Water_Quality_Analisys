@@ -1,4 +1,4 @@
-Water Quality Analysis
+## Water Quality Analysis
 
 Projeto de Inteligência Artificial para Classificação da Potabilidade da Água
 
@@ -68,6 +68,7 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 
 ## 👩‍💻 Autoria
 Beatriz Araújo
+
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
 ## 📈 Possíveis melhorias futuras
