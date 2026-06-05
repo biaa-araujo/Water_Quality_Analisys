@@ -10,15 +10,15 @@ A aplicação permite que o usuário insira dados da água e receba uma classifi
 
 ## 🛠️ Tecnologias Utilizadas
 ## 💻 Front-end
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## 🤖 Inteligência Artificial
-Python
-Pandas
-Scikit-learn
-Google Colab
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
 
 
 ## Modelo de Machine Learning
