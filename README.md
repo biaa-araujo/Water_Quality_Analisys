@@ -4,7 +4,7 @@ Projeto de Inteligência Artificial para Classificação da Potabilidade da Águ
 Este projeto consiste em uma aplicação web integrada a um modelo de Machine Learning capaz de analisar parâmetros físico-químicos da água e indicar se ela é potável ou não potável.
 O objetivo é demonstrar a aplicação de técnicas de Inteligência Artificial no apoio à tomada de decisão em problemas reais de saúde e meio ambiente.
 
-🚀 Demonstração
+## Demonstração
 
 A aplicação permite que o usuário insira dados da água e receba uma classificação automática baseada em um modelo treinado com dados reais.
 
