@@ -55,7 +55,7 @@ cd Water_Quality_Analisys
 Abra o arquivo index.html no navegador ou use a extensão Live Server no VS Code
 
 O treinamento do modelo foi realizado no Google Colab:
-https://colab.research.google.com/drive/https://drive.google.com/file/d/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV/view?usp=sharing
+[https://colab.research.google.com/drive/https://drive.google.com/file/d/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV/view?usp=sharing](https://drive.google.com/file/d/1X_paM6GgfFmtPEVFzPxZ9AJIfS93_tlV/view?usp=sharing)
 
 ## 🎯 Objetivo do Projeto
 
@@ -68,14 +68,12 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 
 ## 👩‍💻 Autoria
 Beatriz Araújo
-
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
-📈 Possíveis melhorias futuras
-Integração com API para análise em tempo real
-Melhorias no modelo de IA (mais precisão)
-Deploy da aplicação online (GitHub Pages / Vercel)
-Dashboard interativo com gráficos
-⭐ Observação
+## 📈 Possíveis melhorias futuras
+- Integração com API para análise em tempo real
+- Melhorias no modelo de IA (mais precisão)
+- Dashboard interativo com gráficos
 
+## ⭐ Observação
 Este projeto demonstra a aplicação prática de IA em um problema real, unindo Machine Learning + Desenvolvimento Web em uma solução completa.
