@@ -68,7 +68,6 @@ Este projeto foi desenvolvido com fins acadêmicos, com foco em:
 
 ## Autoria
 - Beatriz Araújo
-- David Richard
 
 Projeto acadêmico – Análise e Desenvolvimento de Sistemas
 
